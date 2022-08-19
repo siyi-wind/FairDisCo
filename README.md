@@ -47,7 +47,7 @@ Data
 ----------------------
 Download Fitzpatrick17k dataset by filling the form [here][1]
 Download Diverse Dermatology Images (DDI) from [here][2]
-
+Use [data_play_fitz.ipynb][4] and [data_play_ddi.ipynb] to remove unknown skin types, encode disease labels, and generate the weights of reweighting and resampling methods.
 
 Training
 ---------------------
@@ -66,3 +66,5 @@ Use [multi_evaluate.ipynb][3]
 [1]: https://github.com/mattgroh/fitzpatrick17k
 [2]: https://ddi-dataset.github.io/index.html#dataset
 [3]: https://github.com/siyi-wind/FairDisCo/blob/main/multi_evaluate.ipynb
+[4]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
+[5]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
