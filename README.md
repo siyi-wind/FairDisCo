@@ -1,7 +1,8 @@
 FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning
 ====================================================
 
-
+![alt text](Images/model_architecture.jpg)
+<p align="center">Diagram of 3  skin disease classifiers: (a) Baseline; (b) Attribute-aware method; (c) Our proposed disentanglement network with contrastive learning (FairDisCo).</p>
 
 This is a PyTorch implementation for [FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning, ECCV ISIC Workshop 2022].
 
@@ -67,8 +68,16 @@ Evaluation
 Use [multi_evaluate.ipynb][3]
 
 
+
+Acknowledgements
+----------------
+
+* This code began with [mattgroh/fitzpatrick17k][6]. We thank the developers for building the Fitzpatrick17k dataset and providing the baseline.
+
+
 [1]: https://github.com/mattgroh/fitzpatrick17k
 [2]: https://ddi-dataset.github.io/index.html#dataset
 [3]: https://github.com/siyi-wind/FairDisCo/blob/main/multi_evaluate.ipynb
 [4]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
 [5]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
+[6]: https://github.com/mattgroh/fitzpatrick17k
