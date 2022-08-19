@@ -46,8 +46,12 @@ pip install -r requirements.txt
 Data
 ----------------------
 Download Fitzpatrick17k dataset by filling the form [here][1]
+
 Download Diverse Dermatology Images (DDI) from [here][2]
+
 Use [data_play_fitz.ipynb][4] and [data_play_ddi.ipynb] to remove unknown skin types, encode disease labels, and generate the weights of reweighting and resampling methods.
+
+
 
 Training
 ---------------------
