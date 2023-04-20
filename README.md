@@ -18,11 +18,13 @@ This is a PyTorch implementation for [FairDisCo: Fairer AI in Dermatology via Di
 If you use this code in your research, please consider citing:
 
 ```text
-@inproceedings{du2022fairdisco,
-  title =  {FairDisCo: Fairer AI in Dermatology via Disentanglement Contrastive Learning},
-  author =  {Du, Siyi and Hers, Ben and Bayasi, Nourhan and Harmaneh, Ghassan and Garbi, Rafeef},
-  booktitle = {Proceedings of the 17th European Conference on Computer Vision Workshops (ECCVW 2022)}
-  year =  {2022},
+@inproceedings{du2023fairdisco,
+  title={Fairdisco: Fairer ai in dermatology via disentanglement contrastive learning},
+  author={Du, Siyi and Hers, Ben and Bayasi, Nourhan and Hamarneh, Ghassan and Garbi, Rafeef},
+  booktitle={Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IV},
+  pages={185--202},
+  year={2023},
+  organization={Springer}
 }
 ```
 
