@@ -52,7 +52,7 @@ Data
 
 2. Download Diverse Dermatology Images (DDI) from [here][2]
 
-3. Use [data_play_fitz.ipynb][4] and [data_play_ddi.ipynb] to remove unknown skin types, encode disease labels, and generate the weights of reweighting and resampling methods.
+3. Use [data_play_fitz.ipynb][4] and [data_play_ddi.ipynb][5] to remove unknown skin types, encode disease labels, and generate the weights of reweighting and resampling methods.
 
 
 
@@ -81,6 +81,6 @@ Acknowledgements
 [2]: https://ddi-dataset.github.io/index.html#dataset
 [3]: https://github.com/siyi-wind/FairDisCo/blob/main/multi_evaluate.ipynb
 [4]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
-[5]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_fitz.ipynb
+[5]: https://github.com/siyi-wind/FairDisCo/blob/main/data_play_ddi.ipynb
 [6]: https://github.com/mattgroh/fitzpatrick17k
 [7]: https://arxiv.org/abs/2208.10013
