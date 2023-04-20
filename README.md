@@ -19,7 +19,7 @@ If you use this code in your research, please consider citing:
 
 ```text
 @inproceedings{du2023fairdisco,
-  title={Fairdisco: Fairer ai in dermatology via disentanglement contrastive learning},
+  title={{FairDisCo}: Fairer {ai} in dermatology via disentanglement contrastive learning},
   author={Du, Siyi and Hers, Ben and Bayasi, Nourhan and Hamarneh, Ghassan and Garbi, Rafeef},
   booktitle={Computer Vision--ECCV 2022 Workshops: Tel Aviv, Israel, October 23--27, 2022, Proceedings, Part IV},
   pages={185--202},
